@@ -1,4 +1,12 @@
-.chamada{
+body{
+    color: pink;
+    background: gold;
+    margin: 0px;
+    font-family: "Itim", cursive;
+    margin-bottom: 180px;
+}
+
+.camada{
     background: red;
     margin-top: 80px;
     margin-bottom: 80px;
