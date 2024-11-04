@@ -5,6 +5,12 @@ body{
     font-family: "Itim", cursive;
     margin-bottom: 180px;
 }
+header{
+    border-bottom: solid 2px pink;
+    padding: 20px;
+    font-size: 32px;
+    color:  blue;
+}
 
 .camada{
     background: red;
